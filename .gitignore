@@ -1,2 +1,6 @@
-# ignore reference genome
-data/ref/
+data/
+results/
+work/
+transcript-index/
+.nextflow/
+.nextflow*
