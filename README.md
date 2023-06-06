@@ -1,6 +1,6 @@
-# Nextflow_demo
+# Nextflow_docker_demo
 
-simple Nextflow demo from Seqera labs tutorial
+simple Nextflow/Docker demo from Seqera labs tutorial
 
 in the same directory as the main.nf file, run the following:
 ```
