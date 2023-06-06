@@ -1,6 +1,6 @@
 # Nextflow_docker_demo
 
-Following the Nextflow/Docker demo from Seqera labs [tutorial](https://www.youtube.com/watch?v=Axiq1eslb3Q)
+Following the Nextflow/Docker demo from [Seqera labs tutorial](https://www.youtube.com/watch?v=Axiq1eslb3Q)
 
 in the same directory as the main.nf file, run the following:
 ```
